@@ -4,4 +4,4 @@
 
 ### output layer activation function ~> Relu
 
-With a sample code on how to make an image into chunks of images. (here is 250*250 to 8*8 blocks) and vise versa
+With a sample code on how to make an image into chunks of images. (here is 250 * 250 to 8 * 8 blocks) and vise versa
